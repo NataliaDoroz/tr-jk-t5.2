@@ -1,4 +1,4 @@
-public class RightTriangle {
+public class TriangleChecker {
 
     boolean isRightTriangle(Triangle triangle) {
         int a = triangle.getA() * triangle.getA();
